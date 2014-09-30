@@ -1,4 +1,4 @@
 files-challenge
 ===============
 
-INFO 343 Files Challenge.
+INFO 343 Files Challenge - Tim Lau.
