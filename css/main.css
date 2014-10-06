@@ -1,0 +1,40 @@
+  		body {
+            font-family: Helvetica, sans-serif;
+            font-size: 18px;
+            background: #EEEFFF;
+    		color: #222222;
+        }
+
+        img {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        img.center {
+  			display: block;
+  			margin-left: auto;
+  			margin-right: auto;
+		}
+        
+        #container h2 {
+            font: 70px Tahoma, Helvetica, Arial, Sans-Serif;
+    		text-align: center;
+    		color: #131313;
+    		text-transform: uppercase;
+    		text-shadow: #555 0px 1px 3px;
+		}
+
+		#smalltext {
+			font: 10px Tahoma;
+			text-align: center;
+		}
+
+		blockquote {
+	    	background: #EEEFFF;    
+	    	border-left: 10px solid #C3C5DB;
+		    color: #616151;
+		    font-style: italic;
+		    margin: 20px;
+		    padding: 10px;    
+            padding-right: 0px;
+		} 
